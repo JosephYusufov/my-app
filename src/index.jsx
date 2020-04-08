@@ -55,8 +55,24 @@
 
 
 // Module 5
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+// import App from "./components/App.js";
+
+// ReactDOM.render(<App/>, document.getElementById("root"));
+
+// // Module 6
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+// import App from "./App.js";
+
+// ReactDOM.render(<App/>, document.getElementById("root"));
+
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from "./components/App.js";
+import App from "./App.js";
+import PropsLesson from "./PropsLesson.js";
 
-ReactDOM.render(<App/>, document.getElementById("root"));
+ReactDOM.render(<PropsLesson/>, document.getElementById("root"));
+
+
