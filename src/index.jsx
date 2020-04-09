@@ -68,11 +68,18 @@
 
 // ReactDOM.render(<App/>, document.getElementById("root"));
 
+// // Module 7
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+// import App from "./App.jsx";
+// import PropsLesson from "./PropsLesson.jsx";
+
+// ReactDOM.render(<PropsLesson/>, document.getElementById("root"));
+
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from "./App.js";
-import PropsLesson from "./PropsLesson.js";
+import App from './App.jsx';
 
-ReactDOM.render(<PropsLesson/>, document.getElementById("root"));
+ReactDOM.render(<App/>, document.getElementById('root'));
 
 

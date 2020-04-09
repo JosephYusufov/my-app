@@ -1,5 +1,5 @@
 import React from 'react';
-import ContactCard from "./components/ContactCard.js"
+import ContactCard from "./components/ContactCard.jsx";
 
 function PropsLesson() {
     return(
